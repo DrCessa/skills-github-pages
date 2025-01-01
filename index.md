@@ -71,7 +71,7 @@
 <body>
 
 <div class="header">
-   <img src="skills-github-pages/images/tamamo_header.png" alt="Tamamo" width="24" height="39">
+   <img src="images/tamamo_header.png" alt="Tamamo" width="24" height="39">
   <p>A website dedicated to Tamamo.</p>
 </div>
 
