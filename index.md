@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
+title: Cessa's trial website
 ---
 
-<p>This is the first line.<br>
-And this is the second line.</p>
+<p>I have decided to make a website.<br>
+But I have no idea how to do it so I better learn through trial and error.</p>
