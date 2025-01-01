@@ -71,7 +71,7 @@
 <body>
 
 <div class="header">
-  <h1>Tamamo Fan Website 1</h1>
+   <img src="/images/tamamo_header.png" alt="Tamamo" width="24" height="39">
   <p>A website dedicated to Tamamo.</p>
 </div>
 
