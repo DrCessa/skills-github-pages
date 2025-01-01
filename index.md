@@ -71,16 +71,16 @@
 <body>
 
 <div class="header">
-   <img src="images/tamamo_header.png" alt="Tamamo" width="24" height="39">
+   <img src="images/tamamo_header.png" alt="Tamamo" width="600" height="600">
   <p>A website dedicated to Tamamo.</p>
 </div>
 
 
 <div class="navbar">
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#" class="right">Link</a>
+  <a href="#">Home</a>
+  <a href="https://en.wikipedia.org/wiki/Tamamo-no-Mae">Wiki</a>
+  <a href="https://typemoon.fandom.com/wiki/Tamamo-no-Mae">Fate wiki</a>
+  <a href="https://fategrandorder.fandom.com/wiki/Tamamo_no_Mae" class="right">FGO wiki</a>
 </div>
 
 <a href="#" class="fa fa-facebook"></a>
