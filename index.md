@@ -32,7 +32,7 @@
   .fa-reddit {background: #ff5700; color: white;}
   .fa-rss {background: #ff6600; color: white;}
      
-  .header {padding: 80px; text-align: center; background: #1abc9c;color: white;}
+  .header {padding: 80px; text-align: center; background: #2B3787;color: white;}
   
   /* Increase the font size of the h1 element */
   .header h1 {font-size: 40px;}
