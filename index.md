@@ -65,7 +65,6 @@
   </style>
 </head>
 
-
 <body>
 
 <div class="header">
@@ -102,7 +101,7 @@
 <a href="#" class="fa fa-reddit"></a>
 <a href="#" class="fa fa-rss"></a>
 
-<body>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346345385&color=%23000eff&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mika-mio" title="Mika Mio" target="_blank" style="color: #cccccc; text-decoration: none;">Mika Mio</a> · <a href="https://soundcloud.com/mika-mio/fate-extella-ost-tamamo-theme" title="Fate EXTELLA OST - Tamamo Theme An Extra Life With Anyone She Wants" target="_blank" style="color: #cccccc; text-decoration: none;">Fate EXTELLA OST - Tamamo Theme An Extra Life With Anyone She Wants</a></div>
 
 <h1>Cessa's Website Trial 2</h1>
 <p>A website copied from the internet to learn.</p>
