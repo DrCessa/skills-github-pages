@@ -133,23 +133,42 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-        <button class="dropbtn" onclick="openPage('origen', this, 'black')">Origen</button>
-        <button class="dropbtn" onclick="openPage('casko', this, 'blue')">Tamamo (Caster)</button>
-        <button class="dropbtn" onclick="openPage('extra', this, 'red')">Tamamo Cat</button>
-        <button class="dropbtn" onclick="openPage('extra', this, 'yellow')">Tamamo Aria</button>
+        <button class="tablinks" onclick="openPage('origen', this, 'black')" id="defaultOpen">Origen</button>
+        <button class="tablinks" onclick="openPage('casko', this, 'blue')">Tamamo (Caster)</button>
+        <button class="tablinks" onclick="openPage('extra', this, 'red')">Tamamo Cat</button>
+        <button class="tablinks" onclick="openPage('extra', this, 'yellow')">Tamamo Aria</button>
     </div>
   </div>
 </div>
 
-<div id="origen" class="dropdown-content">
+<div id="origen" class="tabcontent">
   <h3>Origen</h3>
   <p>El sorprendente origen del Tamamo 9</p>
 </div>
 
-<div id="casko" class="dropdown-content">
+<div id="casko" class="tabcontent">
   <h3>Casko</h3>
   <p>La mejor.</p>
 </div>
+
+<script>
+function openPage(pageName,elmnt,color) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+  document.getElementById(pageName).style.display = "block";
+  elmnt.style.backgroundColor = color;
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
 
 <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-twitter"></a>
