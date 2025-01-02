@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="icon" type="image/x-icon" href="images/tamamo_header.png">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
   
   <style>
@@ -62,7 +62,7 @@
 
 
 <div class="navbar">
-  <a href="#">Home</a>
+  <a class="active" href="#"><i class="fa fa-home"></i></a> 
   <a href="https://en.wikipedia.org/wiki/Tamamo-no-Mae">Wiki</a>
   <a href="https://typemoon.fandom.com/wiki/Tamamo-no-Mae">Fate wiki</a>
   <a href="https://fategrandorder.fandom.com/wiki/Tamamo_no_Mae" class="right">FGO wiki</a>
