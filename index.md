@@ -127,13 +127,16 @@
       </div>
     </div>
   </div>
-  <a href="https://fategrandorder.fandom.com/wiki/Tamamo_no_Mae" class="right">Tamamo <br> FGO</a>
+  <a href="https://fategrandorder.fandom.com/wiki/Tamamo_no_Mae">Tamamo <br> FGO</a>
   <div class="dropdown">
-    <button class="dropbtn"; class="right">Tamamo<br>Nine
+    <button class="dropbtn">Tamamo<br>Nine
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-       <button class="tablink" onclick="openPage('extra', this, 'blue')">An Extra Life with Anyone She Wants</button
+        <button class="tablink" onclick="openPage('extra', this, 'black')">Origen</button>
+        <button class="tablink" onclick="openPage('extra', this, 'blue')">Tamamo (Caster)</button>
+        <button class="tablink" onclick="openPage('extra', this, 'red')">Tamamo Cat</button>
+        <button class="tablink" onclick="openPage('extra', this, 'yellow')">Tamamo Aria</button>
     </div>
   </div>
 </div>
