@@ -133,12 +133,22 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-        <button class="tablink" onclick="openPage('extra', this, 'black')">Origen</button>
-        <button class="tablink" onclick="openPage('extra', this, 'blue')">Tamamo (Caster)</button>
-        <button class="tablink" onclick="openPage('extra', this, 'red')">Tamamo Cat</button>
-        <button class="tablink" onclick="openPage('extra', this, 'yellow')">Tamamo Aria</button>
+        <button class="dropbtn" onclick="openPage('origen', this, 'black')">Origen</button>
+        <button class="dropbtn" onclick="openPage('casko', this, 'blue')">Tamamo (Caster)</button>
+        <button class="dropbtn" onclick="openPage('extra', this, 'red')">Tamamo Cat</button>
+        <button class="dropbtn" onclick="openPage('extra', this, 'yellow')">Tamamo Aria</button>
     </div>
   </div>
+</div>
+
+<div id="origen" class="dropdown-content">
+  <h3>Origen</h3>
+  <p>El sorprendente origen del Tamamo 9</p>
+</div>
+
+<div id="casko" class="dropdown-content">
+  <h3>Casko</h3>
+  <p>La mejor.</p>
 </div>
 
 <a href="#" class="fa fa-facebook"></a>
