@@ -9,7 +9,7 @@
   
   
   <style>
-  .fa {font-size: 30px; height: 40px; width: 40px; text-align: center; text-decoration: none;  border-radius: 8px; margin: 0.3em;}
+  .fa {display: block; font-size: 30px; height: 40px; width: 40px; text-align: center; text-decoration: none;  border-radius: 8px;}
   .fa:hover {opacity: 0.7;}
   .fa-facebook {background: #3B5998; color: white;}
   .fa-twitter {background: #55ACEE; color: white;}
