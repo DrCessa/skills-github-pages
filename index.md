@@ -113,22 +113,21 @@
        <button class="tablink" onclick="openPage('extra', this, 'blue')">An Extra Life with Anyone She Wants</button>
        <button class="tablink" onclick="openPage('extella', this, 'red')">Suiten Nikkou Amaterasu Yano Shizuishi </button>
        <button class="tablink" onclick="openPage('aria', this, 'yellow')">By Your Side</button>
+      <div id="extra" class="tabcontent">
+        <h3>An Extra Life with Anyone She Wants</h3>
+        <p>El tema de Tamamo, original en Fate/Extra.</p>
+      </div>
+      <div id="extella" class="tabcontent">
+        <h3>Suiten Nikkou Amaterasu Yano Shizuishi</h3>
+        <p>El tema de Tamamo en Fate/Extella.</p>
+      </div>
+      <div id="aria" class="tabcontent">
+        <h3>By Your Side</h3>
+        <p>El tema de Tamamo Aria en Fate/Samurai Remnant.</p>
+      </div>
     </div>
   </div>
   <a href="https://fategrandorder.fandom.com/wiki/Tamamo_no_Mae" class="right">Tamamo <br> FGO</a>
-</div>
-
-<div id="extra" class="tabcontent">
-  <h3>An Extra Life with Anyone She Wants</h3>
-  <p>El tema de Tamamo, original en Fate/Extra.</p>
-</div>
-<div id="extella" class="tabcontent">
-  <h3>Suiten Nikkou Amaterasu Yano Shizuishi</h3>
-  <p>El tema de Tamamo en Fate/Extella.</p>
-</div>
-<div id="aria" class="tabcontent">
-  <h3>By Your Side</h3>
-  <p>El tema de Tamamo Aria en Fate/Samurai Remnant.</p>
 </div>
 
 <a href="#" class="fa fa-facebook"></a>
