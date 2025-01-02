@@ -84,6 +84,7 @@
     padding: 12px 16px;
     text-decoration: none;
     text-align: left;
+    display: block;
   }
   /* Show the dropdown menu when the user moves the mouse over the dropdown button */
   .dropdown:hover .dropdown-content {
@@ -132,10 +133,10 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-        <button class="tablinks" onclick="openPage('origen', this, 'black')" id="defaultOpen">Origen</button>
-        <button class="tablinks" onclick="openPage('casko', this, 'blue')">Tamamo (Caster)</button>
-        <button class="tablinks" onclick="openPage('extra', this, 'red')">Tamamo Cat</button>
-        <button class="tablinks" onclick="openPage('extra', this, 'yellow')">Tamamo Aria</button>
+        <button class="tablinks" onclick="openPage('origen', this, 'black')" id="defaultOpen">Origen</button><br>
+        <button class="tablinks" onclick="openPage('casko', this, 'blue')">Tamamo (Caster)</button><br>
+        <button class="tablinks" onclick="openPage('extra', this, 'red')">Tamamo Cat</button><br>
+        <button class="tablinks" onclick="openPage('extra', this, 'yellow')">Tamamo Aria</button><br>
     </div>
   </div>
 </div>
