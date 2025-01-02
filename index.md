@@ -63,9 +63,19 @@
 
 <div class="navbar">
   <a class="active" href="#"><i class="fa fa-home"></i></a> 
-  <a href="https://en.wikipedia.org/wiki/Tamamo-no-Mae">Sobre Tamamo OG</a>
-  <a href="https://typemoon.fandom.com/wiki/Tamamo-no-Mae">Sobre Tamamo Fate</a>
-  <a href="https://fategrandorder.fandom.com/wiki/Tamamo_no_Mae" class="right">Tamamo FGO</a>
+  <a href="https://en.wikipedia.org/wiki/Tamamo-no-Mae">Sobre <br> Tamamo OG</a>
+  <a href="https://typemoon.fandom.com/wiki/Tamamo-no-Mae">Sobre <br> Tamamo Fate</a>
+  <div class="dropdown">
+    <button class="dropbtn">Temas<br>musicales
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">An Extra Life with Anyone She Wants 1</a>
+      <a href="#"> Suiten Nikkou Amaterasu Yano Shizuishi </a>
+      <a href="#">By Your Side</a>
+    </div>
+  </div>
+  <a href="https://fategrandorder.fandom.com/wiki/Tamamo_no_Mae" class="right">Tamamo <br> FGO</a>
 </div>
 
 <a href="#" class="fa fa-facebook"></a>
