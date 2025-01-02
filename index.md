@@ -83,7 +83,6 @@
     color: black;
     padding: 12px 16px;
     text-decoration: none;
-    display: block;
     text-align: left;
   }
   /* Show the dropdown menu when the user moves the mouse over the dropdown button */
