@@ -9,13 +9,13 @@
   
   
   <style>
-  .fa {padding: 20px; font-size: 30px; width: 50px; text-align: center; text-decoration: none; margin: 5px 2px;}
+  .fa {padding: 20px; font-size: 30px; width: 40px; text-align: center; text-decoration: none;  border-radius: 80%; margin: 5px 2px;}
   .fa:hover {opacity: 0.7;}
   .fa-facebook {background: #3B5998; color: white;}
   .fa-twitter {background: #55ACEE; color: white;}
   .fa-youtube {background: #bb0000; color: white;}
   .fa-instagram {background: #125688; color: white;}
-  span.share-bluesky {display: block; height: 1.6em; width: 1.6em; text-align: center; border-radius: 0.2em; background: #1185fe;}
+  span.share-bluesky {display: block; height: 1.6em; width: 40px; text-align: center; border-radius: 80%; background: #1185fe;}
   span.share-bluesky > svg {fill: #fff; width: 1em; height: 1em; margin: 0.3em;}
     
   .header {padding: 80px; text-align: center; background: #2B3787;color: white;}
@@ -72,7 +72,6 @@
 <a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-youtube"></a>
 <a href="#" class="fa fa-instagram"></a>
-
 <span class="share-bluesky">
     <a target="_blank" title="Share on Bluesky" href="https://bsky.app/intent/compose?text=Check%20out%20this%20amazing%20content!">
         <svg width="1em" height="1em" fill="#fff" viewBox="0 0 600 530" xmlns="http://www.w3.org/2000/svg">
