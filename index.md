@@ -9,13 +9,13 @@
   
   
   <style>
-  .fa {display: block; font-size: 30px; height: 40px; width: 40px; text-align: center; text-decoration: none;  border-radius: 8px;}
+  .fa {font-size: 30px; height: 40px; width: 40px; text-align: center; text-decoration: none;  border-radius: 8px;}
   .fa:hover {opacity: 0.7;}
-  .fa-facebook {background: #3B5998; color: white; margin: 0.3em;}
-  .fa-twitter {background: #55ACEE; color: white; margin: 0.3em;}
-  .fa-youtube {background: #bb0000; color: white; margin: 0.3em;}
-  .fa-instagram {background: #125688; color: white; margin: 0.3em;}
-  span.share-bluesky {display: block; font-size: 30px; height: 40px; width: 40px; text-align: center; border-radius: 8px; background: #1185fe;}
+  .fa-facebook {background: #3B5998; color: white;}
+  .fa-twitter {background: #55ACEE; color: white;}
+  .fa-youtube {background: #bb0000; color: white;}
+  .fa-instagram {background: #125688; color: white;}
+  span.share-bluesky {font-size: 30px; height: 40px; width: 40px; text-align: center; border-radius: 8px; background: #1185fe;}
   span.share-bluesky > svg {fill: #fff; width: 30px; height: 30px; margin: 0.3em;}
     
   .header {padding: 80px; text-align: center; background: #2B3787;color: white;}
