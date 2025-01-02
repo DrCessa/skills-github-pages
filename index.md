@@ -15,7 +15,9 @@
   .fa-twitter {background: #55ACEE; color: white;}
   .fa-youtube {background: #bb0000; color: white;}
   .fa-instagram {background: #125688; color: white;}
-      
+  span.share-bluesky {display: block; height: 1.6em; width: 1.6em; text-align: center; border-radius: 0.2em; background: #1185fe;}
+  span.share-bluesky > svg {fill: #fff; width: 1em; height: 1em; margin: 0.3em;}
+    
   .header {padding: 80px; text-align: center; background: #2B3787;color: white;}
   
   /* Increase the font size of the h1 element */
@@ -78,21 +80,6 @@
         </svg>
     </a>
 </span>
-
-span.share-bluesky {
-    display: block;
-    height: 1.6em;
-    width: 1.6em;
-    text-align: center;
-    border-radius: 0.2em;
-    background: #1185fe;
-  }
-  span.share-bluesky > svg {
-    fill: #fff;
-    width: 1em;
-    height: 1em;
-    margin: 0.3em;
-  }
   
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346345385&color=%23000eff&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mika-mio" title="Mika Mio" target="_blank" style="color: #cccccc; text-decoration: none;">Mika Mio</a> · <a href="https://soundcloud.com/mika-mio/fate-extella-ost-tamamo-theme" title="Fate EXTELLA OST - Tamamo Theme An Extra Life With Anyone She Wants" target="_blank" style="color: #cccccc; text-decoration: none;">Fate EXTELLA OST - Tamamo Theme An Extra Life With Anyone She Wants</a></div>
 
