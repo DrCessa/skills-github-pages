@@ -135,20 +135,33 @@
     <div class="dropdown-content">
         <button class="tablinks" onclick="openPage('origen', this, 'black')" id="defaultOpen">Origen</button><br>
         <button class="tablinks" onclick="openPage('casko', this, 'blue')">Tamamo (Caster)</button><br>
-        <button class="tablinks" onclick="openPage('extra', this, 'red')">Tamamo Cat</button><br>
-        <button class="tablinks" onclick="openPage('extra', this, 'yellow')">Tamamo Aria</button><br>
+        <button class="tablinks" onclick="openPage('cat', this, 'red')">Tamamo Cat</button><br>
+        <button class="tablinks" onclick="openPage('aria', this, 'yellow')">Tamamo Aria</button><br>
     </div>
   </div>
 </div>
 
 <div id="origen" class="tabcontent">
-  <h3>Origen</h3>
-  <p>El sorprendente origen del Tamamo 9</p>
+  <h3>El sorprendente origen del Tamamo Nine.</h3>
+  <p>Tras lo que le sucedió a Tamamo, decidió cortarse todas las colas menos una para evitar que una tragedia similar pudiera repetirse.</p><br>
+  <p>Sin embargo, de las 8 colas, llenas de su divinidad, crecieron 8 espíritus similares a ella, formándose así el Tamamo Nine.</p>
 </div>
 
 <div id="casko" class="tabcontent">
   <h3>Casko</h3>
-  <p>La mejor.</p>
+  <p>La encarnación de la original y la mejor. Sale en Extra, Extra CCC, Extella, Extella Link y FGO. Muy confiable, gran esposa.</p><br>
+  <p>Es algo posesiva y sobreprotectora, aunque puede ser algo cruel con el resto.</p>
+</div>
+
+<div id="cat" class="tabcontent">
+  <h3>Tamamo Cat</h3>
+  <p>Una de las colas de Tamamo. Obsesionada con cocinar, bastante loca y algo bocazas, aunque quizá de forma intencional para crear más caos.</p>
+</div>
+
+<div id="aria" class="tabcontent">
+  <h3>Tamamo Aria</h3>
+  <p>Una de las colas de Tamamo. Su cuerpo y su mente son los de una versión mucho más infantil que el resto de las Tamamos.</p><br>
+  <p>También es bastante inocente, aunque puede tener una cierta posesividad innata a todas las Tamamos.</p>
 </div>
 
 <script>
