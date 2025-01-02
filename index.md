@@ -11,10 +11,10 @@
   <style>
   .fa {display: block; font-size: 30px; height: 40px; width: 40px; text-align: center; text-decoration: none;  border-radius: 8px;}
   .fa:hover {opacity: 0.7;}
-  .fa-facebook {background: #3B5998; color: white;}
-  .fa-twitter {background: #55ACEE; color: white;}
-  .fa-youtube {background: #bb0000; color: white;}
-  .fa-instagram {background: #125688; color: white;}
+  .fa-facebook {background: #3B5998; color: white; margin: 0.3em;}
+  .fa-twitter {background: #55ACEE; color: white; margin: 0.3em;}
+  .fa-youtube {background: #bb0000; color: white; margin: 0.3em;}
+  .fa-instagram {background: #125688; color: white; margin: 0.3em;}
   span.share-bluesky {display: block; font-size: 30px; height: 40px; width: 40px; text-align: center; border-radius: 8px; background: #1185fe;}
   span.share-bluesky > svg {fill: #fff; width: 30px; height: 30px; margin: 0.3em;}
     
@@ -63,9 +63,9 @@
 
 <div class="navbar">
   <a class="active" href="#"><i class="fa fa-home"></i></a> 
-  <a href="https://en.wikipedia.org/wiki/Tamamo-no-Mae">Wiki</a>
-  <a href="https://typemoon.fandom.com/wiki/Tamamo-no-Mae">Fate wiki</a>
-  <a href="https://fategrandorder.fandom.com/wiki/Tamamo_no_Mae" class="right">FGO wiki</a>
+  <a href="https://en.wikipedia.org/wiki/Tamamo-no-Mae">Sobre Tamamo OG</a>
+  <a href="https://typemoon.fandom.com/wiki/Tamamo-no-Mae">Sobre Tamamo Fate</a>
+  <a href="https://fategrandorder.fandom.com/wiki/Tamamo_no_Mae" class="right">Tamamo FGO</a>
 </div>
 
 <a href="#" class="fa fa-facebook"></a>
