@@ -4,9 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="icon" type="image/x-icon" href="images/tamamo_header.png">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  
+  <link rel="icon" type="image/x-icon" href="images/tamamo_header.png">  
   
   <style>
   .fa {font-size: 30px; height: 40px; width: 40px; text-align: center; text-decoration: none;  border-radius: 8px;}
@@ -18,11 +16,11 @@
   span.share-bluesky {font-size: 30px; height: 40px; width: 40px; text-align: center; border-radius: 8px; background: #1185fe;}
   span.share-bluesky > svg {fill: #fff; width: 30px; height: 30px; margin: 0.3em;}
     
-  .header {text-align: center; background: linear-gradient(#3AA0EA, #8FE5FE);color: white;}
+  .header {padding: 80px, text-align: center; background: linear-gradient(#3AA0EA, #8FE5FE);color: white;}
   
   /* Increase the font size of the h1 element */
   .header h1 {font-size: 40px;}
-  body {font-family: Arial, Helvetica, sans-serif;}
+  body {margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif;}
   
     /* Style the top navigation bar */
   .navbar {
