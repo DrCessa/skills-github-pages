@@ -16,7 +16,7 @@
   span.share-bluesky {font-size: 30px; height: 40px; width: 40px; text-align: center; border-radius: 8px; background: #1185fe;}
   span.share-bluesky > svg {fill: #fff; width: 30px; height: 30px; margin: 0.3em;}
     
-  .header {padding: 80px, text-align: center; background: linear-gradient(#3AA0EA, #8FE5FE);color: white;}
+  .header {background: linear-gradient(#3AA0EA, #8FE5FE);}
   
   /* Increase the font size of the h1 element */
   .header h1 {font-size: 40px;}
