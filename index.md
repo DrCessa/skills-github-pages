@@ -2,7 +2,7 @@
 <head>
   <title>Tamamo Fan Website 1</title>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1", user-scalable=yes>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="icon" type="image/x-icon" href="images/tamamo_header.png">  
   
@@ -94,7 +94,7 @@
 <body>
 
 <div class="header">
-   <img src="images/tamamo_header.png" alt="Tamamo" width="600" height="600" padding="20">
+   <img src="images/tamamo_header.png" alt="Tamamo" width="600" height="600">
   <p>A website dedicated to Tamamo.</p>
 </div>
 
