@@ -33,6 +33,7 @@
     display: block; /* Change the display to block, for responsive reasons (see below) */
     color: white; /* White text color */
     text-align: center; /* Center the text */
+    padding: 14px 20px; /* Add some padding */
     text-decoration: none; /* Remove underline */
   }
   
