@@ -94,7 +94,7 @@
 <body>
 
 <div class="header">
-   <img src="images/tamamo_header.png" alt="Tamamo"><!-- width="600" height="600">-->
+   <img src="images/tamamo_header.png" alt="Tamamo" width="600" height="600">
   <p>A website dedicated to Tamamo.</p>
 </div>
 
