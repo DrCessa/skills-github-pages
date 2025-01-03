@@ -19,7 +19,7 @@
   .header {padding: 80px, text-align: center; background: linear-gradient(#3AA0EA, #8FE5FE); color: white;}
     
   /* Increase the font size of the h1 element */
-  body {margin: 0; font-family: Arial, Helvetica, sans-serif;}
+  .body {margin: 0; font-family: Arial, Helvetica, sans-serif;}
   
     /* Style the top navigation bar */
   .navbar {
